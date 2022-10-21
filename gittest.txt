@@ -1,4 +1,14 @@
 git commit "こんにちは"
+git commit "こんばんは"
+git commit "おやすみなさい"
+
+aaa
+bbb
+ccc
+dddd
+git commit "feature/createapiを作った"
+
+git commit "createapi作業"
 git commit "feature/floaraを作った"
 
 newnew
